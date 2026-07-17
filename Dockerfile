@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-FROM node:20-alpine AS build
-=======
 FROM node:22-alpine AS build
->>>>>>> a3d3ef2 (Updated Dockerfile for vite react build)
 
 WORKDIR /app
 
